@@ -1,0 +1,10 @@
+{
+  "name": "uninfer-desktop-release",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "release": "node scripts/release.mjs",
+    "test:release": "node --test scripts/release.test.mjs"
+  }
+}

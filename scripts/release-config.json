@@ -1,0 +1,11 @@
+{
+  "gitee": {
+    "owner": "itinyml",
+    "repo": "uninfer_desktop",
+    "branch": "master",
+    "apiBaseUrl": "https://gitee.com/api/v5"
+  },
+  "target": "windows-x86_64",
+  "latestTag": "latest",
+  "manifestUrl": "https://gitee.com/itinyml/uninfer_desktop/releases/download/latest/latest.json"
+}
