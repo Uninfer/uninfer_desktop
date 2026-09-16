@@ -1,0 +1,15 @@
+{
+  "version": "26.9.1",
+  "sourceTag": "v26.9.1",
+  "sourceCommit": "d2068a918d39a265ac4c005a6f959ec1d42a52a8",
+  "artifacts": {
+    "uninfer_26.9.1_x64-setup.exe": {
+      "sha256": "4be4d92458fa79a7a0d52da22a0144bd12ee8940790a2678fa5f9876bff3ffa5",
+      "size": 3245980
+    },
+    "uninfer_26.9.1_x64-setup.exe.sig": {
+      "sha256": "4c0cee2b5e1d003eac8ef0781ca7181378599622909cd420fe2b53dd4d138dfe",
+      "size": 420
+    }
+  }
+}
